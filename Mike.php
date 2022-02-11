@@ -1,1 +1,3 @@
-<?php echo "_ganti nama anda_ sudah masuk!"; ?>
+<script>
+    $("#mike").text("Mikhael Kristian Seorang JavaScript Developer Mern Stack Masuk!");
+</script>
