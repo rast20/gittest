@@ -13,9 +13,8 @@
 		<li><?php include 'Ramot.php'; ?></li>
 		<li><?php include 'Sasja.php'; ?></li>
 		<li><?php include 'Fandi.php'; ?></li>
-		<li id="mike">
-		</li>
-		<li></li>
+		<li id="mike"></li>
+		<li><?php include 'Taufiq.php'; ?></li>
 		<li></li>
 	</ol>
 	</p>
